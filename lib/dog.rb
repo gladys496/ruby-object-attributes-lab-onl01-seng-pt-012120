@@ -21,7 +21,6 @@ class Dog
 		
 fido = Dog.new
 fido.name = "Fido"
-husky = Dog.new
 husky.breed = "Husky"
 
 puts fido.name

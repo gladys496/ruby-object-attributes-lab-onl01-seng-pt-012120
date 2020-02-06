@@ -15,7 +15,7 @@ fido = Dog.new
 fido.name = "Fido"
 puts fido.name
 
-class Dog 
+
 
 def breed=(dogs_breed)
   @this_dogs_breed = dogs_breed

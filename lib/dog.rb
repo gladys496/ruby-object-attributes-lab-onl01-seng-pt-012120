@@ -15,6 +15,7 @@ fido = Dog.new
 fido.name = "Fido"
 puts fido.name
 
+class Dog 
 
 
 

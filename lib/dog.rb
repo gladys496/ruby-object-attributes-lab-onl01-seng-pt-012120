@@ -23,7 +23,7 @@ end
 
 
 
-husky.breed = "Husky"
+
 
 
 puts husky.breed 
@@ -32,7 +32,7 @@ puts husky.breed
 
 fido = Dog.new
 fido.name = "Fido"
-
+husky.breed = "Husky"
 puts fido.name
  
 

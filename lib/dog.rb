@@ -8,8 +8,8 @@ class Dog
 			@breed = breed 
 		end 
 		
-	def dog_breed(breed)
-	  
+	def dog_breed
+  puts "#{self.name} says: This dog is a  #{self.breed}."
 	  
 	  
 	  

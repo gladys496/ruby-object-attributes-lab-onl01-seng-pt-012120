@@ -1,7 +1,7 @@
 require "pry"
 
  class Dog
-def initialize(name, breed = "Husky")
+def initialize(name, breed)
   @name = name
   @breed = breed
 end
